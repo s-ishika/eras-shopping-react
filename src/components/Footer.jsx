@@ -22,7 +22,7 @@ function Footer() {
             <h4>MY PROFILE</h4>
             <ul>
               <li><a href="/">Getting Started</a></li>
-              <li><a href="">FAQs</a></li>
+              <li><a href="/">FAQs</a></li>
               <li><a href="/">Buying Guide</a></li>
               <li><a href="/">Order Returns</a></li>
               <li><a href="/">Affiliate Program</a></li>
@@ -49,7 +49,7 @@ function Footer() {
               <li><a href="/">FAQs</a></li>
               <li><a href="/">Buying Guide</a></li>
               <li><a href="/">Order Returns</a></li>
-              <li><a href="">Affiliate Program</a></li>
+              <li><a href="/">Affiliate Program</a></li>
             </ul>
           </div>
 
